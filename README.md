@@ -1,5 +1,5 @@
 # _caret i1 build
- typing rhythm game
+ typing rhythm game  
  shoonie's side project, wip
 
  quick instructions
